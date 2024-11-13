@@ -1,7 +1,55 @@
-.titlesection{
-    width: 2g50px; height: 120px;
-    background-color: blueviolet;
-    font-size: medium;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+.workspace{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    border-radius: 30%;
+}
+.mainbox{
+    background-color: aqua;
+}
+.h1{
+    background-color: brown;
+}
+.body{
+    background-color: burlywood;
+}
+.mainbox{
+    width: 20%;
+    height: 300px;
+    border-style: dashed;
+}
+.box1{
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+}
+.box2{
+    width: 100%;
+    height: 200px;
+    background-color: red;
+}
+.box3{
+    width: 100%;
+    height: 200px;
+    background-color: chocolate;
+}
+.box4{
+    width: 100%;
+    height: 200px;
+    background-color: crimson;
+}
+.box5{
+    width: 100%;
+    height: 200px;
+    background-color: brown;
+}
+.box6{
+    width: 100%;
+    height: 200px;
+    background-color: darkgreen;
+}
+.box7{
+    width: 100%;
+    height: 200px;
+    background-color: cornflowerblue;
 }
